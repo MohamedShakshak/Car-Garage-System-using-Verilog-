@@ -1,0 +1,37 @@
+D:/Verilog/car_gargae/UP_Counter2.v {1 {vlog -work work D:/Verilog/car_gargae/UP_Counter2.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module up_counter
+-- Compiling module up_counter_DUT
+
+Top level modules:
+	up_counter_DUT
+
+} {} {}} D:/Verilog/car_gargae/car_garage2.v {1 {vlog -work work D:/Verilog/car_gargae/car_garage2.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module car_garage
+
+Top level modules:
+	car_garage
+
+} {} {}} D:/Verilog/car_gargae/decoder_7seg.v {1 {vlog -work work D:/Verilog/car_gargae/decoder_7seg.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module decoder_7seg
+
+Top level modules:
+	decoder_7seg
+
+} {} {}} D:/Verilog/car_gargae/counter_to_decoder.v {1 {vlog -work work D:/Verilog/car_gargae/counter_to_decoder.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter_to_decoder
+
+Top level modules:
+	counter_to_decoder
+
+} {} {}} D:/Verilog/car_gargae/car_garage_DUT.v {1 {vlog -work work D:/Verilog/car_gargae/car_garage_DUT.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module DUT
+
+Top level modules:
+	DUT
+
+} {} {}}

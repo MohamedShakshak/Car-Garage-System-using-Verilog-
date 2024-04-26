@@ -1,0 +1,17 @@
+//100 %10 =0 ,10 %10 =0 ,1%10=1
+module counter_to_decoder(clk,reset,count,leds1,leds2);
+  input clk,reset;
+  output  [6:0] leds1,leds2;
+  output [5:0]count;    // 15  % 10 =5 ,15/10 = 1
+//  wire up,down;
+  //   up_counter coun (clk,reset,up,down,count);
+  wire [3:0]digit1=count%10;  // 5 0101
+  wire [3:0] digit2=count/10; // 1 0001
+  
+  decoder_7seg seg1 (digit1[3],digit1[2],digit1[1],digit1[0],
+                     leds1[6],leds1[5],leds1[4],leds1[3],leds1[2],leds1[1],leds1[0]);
+                     
+  decoder_7seg seg2 (digit2[3],digit2[2],digit2[1],digit2[0],
+                     leds2[6],leds2[5],leds2[4],leds2[3],leds2[2],leds2[1],leds2[0]);
+endmodule
+

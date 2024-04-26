@@ -1,0 +1,141 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Verilog\Car_Garage
+vcar_garage
+Z1 ICNAfX2Ao[3fzc>DJ>fEbC3
+Z2 VDYBDMbQMZihY<@:Q7nRgP1
+Z3 dD:\Verilog\car_gargae
+Z4 w1683177223
+Z5 8D:/Verilog/car_gargae/car_garage2.v
+Z6 FD:/Verilog/car_gargae/car_garage2.v
+L0 1
+Z7 OV;L;10.1b;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 zi`;A2PMF]1nTg?`674bZ3
+Z10 !s108 1683177675.201000
+Z11 !s107 D:/Verilog/car_gargae/car_garage2.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/Verilog/car_gargae/car_garage2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter_to_decoder
+Z13 ICAREINL0Az[QJ7^Z1;[8e0
+Z14 VJW?7GR_[M?R`m]_ZV[8751
+R3
+Z15 w1683177275
+Z16 8D:/Verilog/car_gargae/counter_to_decoder.v
+Z17 FD:/Verilog/car_gargae/counter_to_decoder.v
+L0 2
+R7
+r1
+31
+R8
+Z18 !s100 Db`;XX9PXVRX>_mmk=C3b0
+Z19 !s108 1683177675.296000
+Z20 !s107 D:/Verilog/car_gargae/counter_to_decoder.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/Verilog/car_gargae/counter_to_decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_7seg
+Z22 I1B^oHCbdBGMfY9DD5V<NC1
+Z23 V3z6[n`J6kIfXnXYComD=X3
+R3
+Z24 w1682770956
+Z25 8D:/Verilog/car_gargae/decoder_7seg.v
+Z26 FD:/Verilog/car_gargae/decoder_7seg.v
+L0 1
+R7
+r1
+31
+R8
+Z27 !s100 5QVH>d;A<jfczfja]X=e;0
+Z28 !s108 1683177675.419000
+Z29 !s107 D:/Verilog/car_gargae/decoder_7seg.v|
+Z30 !s90 -reportprogress|300|-work|work|D:/Verilog/car_gargae/decoder_7seg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDUT
+!i10b 1
+!s100 7<hlRogS?Z[k:jKSmL:O91
+IhA[VO[<o=5AaKQ>=GhQPJ0
+V6eXX5Yc2I_]iCMdbk7c610
+R3
+w1683177684
+Z31 8D:/Verilog/car_gargae/car_garage_DUT.v
+Z32 FD:/Verilog/car_gargae/car_garage_DUT.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1683177686.002000
+!s107 D:/Verilog/car_gargae/car_garage_DUT.v|
+Z33 !s90 -reportprogress|300|-work|work|D:/Verilog/car_gargae/car_garage_DUT.v|
+!s101 -O0
+R8
+n@d@u@t
+vDUT2
+Z34 ISzk<AY^RNn;k2oeb5R0AB0
+Z35 VK832R`@=4@bOC=B4d1zo?3
+R3
+Z36 w1683177323
+R31
+R32
+L0 1
+R7
+r1
+31
+R8
+Z37 n@d@u@t2
+Z38 !s100 j=@O8Whfm=YOznI`e0EY53
+Z39 !s108 1683177675.082000
+Z40 !s107 D:/Verilog/car_gargae/car_garage_DUT.v|
+R33
+!i10b 1
+!s85 0
+!s101 -O0
+vup_counter
+Z41 I>EbejDT7hDo?_4oHVHl^A0
+Z42 VCmjPUzabI;NKzl2MY><n90
+R3
+Z43 w1683177155
+Z44 8D:/Verilog/car_gargae/UP_Counter2.v
+Z45 FD:/Verilog/car_gargae/UP_Counter2.v
+L0 1
+R7
+r1
+31
+Z46 !s108 1683177675.522000
+Z47 !s107 D:/Verilog/car_gargae/UP_Counter2.v|
+Z48 !s90 -reportprogress|300|-work|work|D:/Verilog/car_gargae/UP_Counter2.v|
+R8
+!i10b 1
+Z49 !s100 Ua:eda[];nJ9N_Y76`H?C1
+!s85 0
+!s101 -O0
+vup_counter_DUT
+Z50 IK@G;[zidBVne=kPQTiN^^3
+Z51 V<g2W7=CZ04nU[ZN?0Q8PE3
+R3
+R43
+R44
+R45
+L0 25
+R7
+r1
+31
+R46
+R47
+R48
+R8
+Z52 nup_counter_@d@u@t
+!i10b 1
+Z53 !s100 6jM<76h7A0TbfM6@G5jRU1
+!s85 0
+!s101 -O0
